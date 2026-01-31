@@ -85,6 +85,7 @@ Open in browser:
 🔑 Admin Panel
 Access admin dashboard:
 👉 http://127.0.0.1:8000/admin/
+
 ---
 ## Admin features:
 - View all tasks
@@ -104,6 +105,7 @@ Deployed using GitHub + PythonAnywhere.
 
 📌 Resume Description
 Built and deployed a Django-based TODO application implementing CRUD operations, Django ORM, admin customization, Bootstrap UI, and Git-based version control.
+
 ---
 🧠 What I Learned
 - Django MTV architecture
