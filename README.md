@@ -28,7 +28,7 @@ This project demonstrates **CRUD operations**, **Django ORM**, **template inheri
 ---
 
 ## 📂 Project Structure
-
+'''
 todoproject/
 │
 ├── todo/
@@ -53,7 +53,7 @@ todoproject/
 ├── db.sqlite3
 └── README.md
 
-
+'''
 
 ---
 
@@ -85,13 +85,14 @@ Open in browser:
 🔑 Admin Panel
 Access admin dashboard:
 👉 http://127.0.0.1:8000/admin/
-
+---
 ## Admin features:
 - View all tasks
 - Filter by completed status
 - Search by title and description
 - Sort by creation date
 
+---
 🌍 Deployment
 This project can be deployed on:
 - PythonAnywhere
@@ -103,22 +104,24 @@ Deployed using GitHub + PythonAnywhere.
 
 📌 Resume Description
 Built and deployed a Django-based TODO application implementing CRUD operations, Django ORM, admin customization, Bootstrap UI, and Git-based version control.
-
+---
 🧠 What I Learned
--- Django MTV architecture
--- Django ORM & migrations
--- Template inheritance
--- CSRF protection
--- Git & GitHub workflow
--- Deployment basics
+- Django MTV architecture
+- Django ORM & migrations
+- Template inheritance
+- CSRF protection
+- Git & GitHub workflow
+- Deployment basics
 
+---
 # 🔮 Future Improvements
--- User authentication (login/register)
--- Tasks per user
--- Pagination
--- Task priority
--- REST API using Django REST Framework
+- User authentication (login/register)
+- Tasks per user
+- Pagination
+- Task priority
+- REST API using Django REST Framework
 
+---
 👨‍💻 Author
 Pavan Devidas Jadhav
 
